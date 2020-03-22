@@ -10,7 +10,10 @@ Only directories that contain files developed by the author have been included s
 Go to the directory where you want to create your App. npm must be available.
 <br/>
 create-react-app <app-name>
+<br/>
 npm start
+<br/>
 npm i bootstrap@4.1.1
+<br/>
 
 & you are good to go!

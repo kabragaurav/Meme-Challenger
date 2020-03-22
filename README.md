@@ -6,8 +6,9 @@ Gaurav Kabra | gauravkabra.official@gmail.com
 ### Installation
 Only directories that contain files developed by the author have been included so as to control the size of zip file.
 
-## Commands
+### Commands
 Go to the directory where you want to create your App. npm must be available.
+<br/>
 create-react-app <app-name>
 npm start
 npm i bootstrap@4.1.1
